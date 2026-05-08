@@ -1,0 +1,230 @@
+该文件来自2048我为人人论坛 永久网址 hjd2048.com 免翻网址 https://fby.ijqgwu.com
+如果解压遇到问题，请尝试 https://fby.ijqgwu.com 解压
+注意：https://fby.ijqgwu.com 切勿删除
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv='content-language' content='zh-cn'>
+<title>提示信息 -  读书会-二次元小说分享 -  阅读使人进步！</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",读书会-二次元小说分享" />
+<meta name="generator" content="53DUSHU" />
+<meta name="author" content="DUSHUHUI" />
+<meta name="copyright" content="DUSHUHUI" />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="https://www.53dushu.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_18_common.css?Blb" /><link rel="stylesheet" type="text/css" href="data/cache/style_18_forum_attachment.css?Blb" /><script type="text/javascript">var STYLEID = '18', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Blb', charset = 'utf-8', discuz_uid = '162357', cookiepre = 'IpNI_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread|viewthreadmod', creditnotice = '1|银条|,2|金币|,3|钻石|', defaultstyle = '', REPORTURL = 'aHR0cHM6Ly93d3cuNTNkdXNodS5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OekExT1RsOE1XTTFNelZpWkdaOE1UYzNOelEyT1Rrd05Yd3hOakl6TlRkOE1BPT0=', SITEURL = 'https://www.53dushu.com/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?Blb" type="text/javascript"></script>
+<meta name="application-name" content="读书会-二次元小说分享" />
+<meta name="msapplication-tooltip" content="读书会-二次元小说分享" />
+<meta name="msapplication-task" content="name=读书会;action-uri=https://www.53dushu.com/portal.php;icon-uri=https://www.53dushu.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=https://www.53dushu.com/forum.php;icon-uri=https://www.53dushu.com/static/image/common/bbs.ico" />
+<link rel="archives" title="读书会-二次元小说分享" href="https://www.53dushu.com/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_18_widthauto.css?Blb' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/forum.js?Blb" type="text/javascript"></script>
+
+</head>
+
+<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
+<header><div id="append_parent"></div><div id="ajaxwaitid"></div>
+<!--顶栏-->
+<div id="toptb" class="cl">
+<div class="wp cl">
+<div class="z cl"><a href="javascript:;"  onclick="setHomepage('https://www.53dushu.com/');">设为首页</a><a href="https://www.53dushu.com/"  onclick="addFavorite(this.href, '读书会-二次元小说分享');return false;">收藏本站</a><a href="home.php?mod=spacecp&ac=plugin&op=credit&id=boan_buycredit:buycredit"><span  style="color:red;">充值积分</span></a></div>
+<div class="y cl">
+<div class="toptb_y_y">
+<a id="switchblind" href="javascript:;" onClick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onClick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+<div class="z">
+</div>
+<div class="toptb_y_z"><a href="plugin.php?id=dc_vip" class="vm"><img src="source/plugin/dc_vip/images/icon/vip3.gif" style="margin-top: -5px;"></a><a href="home.php?mod=space&amp;uid=162357" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem','pos':'34'});"><img src="https://www.53dushu.com/uc_server/avatar.php?uid=162357&size=middle&ts=1" />mstsc12</a>
+
+<a href="home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu" onmouseover="showMenu({'ctrlid':'myprompt','pos':'34'});">提醒(<span class="rq">新</span>)</a>
+
+</div>
+</div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li><a href="home.php?mod=space&amp;do=notice&amp;view=system"><em class="notice_system"></em>系统提醒(<span class="rq">5</span>)</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onClick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<!--我的下拉栏-->
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li class="myitem_avatar"><a href="home.php?mod=space&amp;uid=162357" title="访问我的空间"><img src="https://www.53dushu.com/uc_server/avatar.php?uid=162357&size=middle&ts=1" /> mstsc12</a></li>
+<li class="myitem_one"><a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1">积分&nbsp;:&nbsp;17171</a></li>
+<li class="myitem_one"><a href="home.php?mod=spacecp&amp;ac=usergroup">用户组&nbsp;:&nbsp;<font color="#FF0099">年费VIP</font></a></li>
+<li class="myitem_one"></li>
+<li><a href="home.php?mod=spacecp">设置</a></li>
+<li><a href="home.php?mod=space&amp;do=thread&amp;view=me">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+<li><a href="portal.php?mod=portalcp">门户管理</a></li>
+<li><a href="member.php?mod=logging&amp;action=logout&amp;formhash=c4879287">退出</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=magic" style="background-image:url(https://www.53dushu.com/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(https://www.53dushu.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(https://www.53dushu.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="forum.php?mod=guide" style="background-image:url(https://www.53dushu.com/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(https://www.53dushu.com/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div>
+<!--主导航栏-->
+<div class="hd_xin_top">
+<style>
+</style>
+</div>
+<div class="hd_xin">
+<div class="wp cl">
+<div class="nv_xin">
+<ul class="cl">
+<li class="nv_logo"><h2>
+<a href="forum.php" title="读书会-二次元小说分享"><img src="/data/attachment/common/cf/183633yfznx1usyt10k7sf.png" alt="读书会-二次元小说分享" border="0" /></a></h2>
+</li><li class="nv_li a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li class="nv_li " id="mn_Nfcbc" ><a href="home.php?mod=spacecp&ac=credit&op=exchange" hidefocus="true"   style="color: red">钻石换金币</a></li><li class="nv_li " id="mn_Nf3cf" ><a href="home.php?mod=spacecp&ac=plugin&op=credit&id=boan_buycredit:buycredit" hidefocus="true"  >充值积分</a></li><li class="nv_li " id="mn_N61b8" ><a href="plugin.php?id=dc_vip" hidefocus="true"  >VIP中心</a></li><li class="nv_li " id="mn_N3d9d" ><a href="https://www.53dushu.com/thread-569073-1-1.html" hidefocus="true"  >群284251450</a></li><li class="nv_li " id="mn_Nce1e" ><a href="hux_miner-hux_miner.html" hidefocus="true"  >矿工游戏</a></li></ul>
+</div>
+<div class="qmenu_xin z">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})"></a>
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="c4879287" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::attachment" />
+<div class="byg_scbar_box cl">
+<div class="scbar_type_td z">
+<a href="javascript:;" id="scbar_type" class="xg1" onMouseOver="showMenu(this.id)" hidefocus="true">搜索</a>
+</div>
+<div class="scbar_txt_td z">
+<input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech />
+</div>
+<div class="scbar_btn_td y">
+<button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true">
+<strong class="xi2">搜索</strong>
+</button>
+</div>
+</div>
+</form>
+</div>
+
+</div>
+</div>
+<script src="template/bygsjw/image/js/jquery.min.js" type="text/javascript"></script>
+<script src="template/bygsjw/image/js/top.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(".hd_xin").stickMe();
+</script>
+<div class="wp cl"></div>
+<div class="byg_nav_pop"></div>
+<div id="mu" class="cl wp">
+</div><ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</header>
+<div id="wp" class="wp bygsjw_wp_mh"><div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p><p>你的当前用户组每天只能下载<font color="red" style="bold">20</font>个附件。请明天在尝试下载！</p>
+</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 读书会-二次元小说分享 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+<footer>
+<div class="ft_xin">
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="https://www.53dushu.com" target="_blank">读书会</a></strong>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?35dc54705f95b4c1a8ef2b0802bf0250";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</p>
+<p class="xs1" style="display:none;">
+GMT+8, 2026-4-29 21:38<span id="debuginfo">
+, Processed in 0.029020 second(s), 12 queries
+, MemCached On.
+</span>
+</p>
+</div>
+<div id="frt" class="z">
+<p>Powered by <strong><a href="https://705u.com" target="_blank">备用域名705u.com</a></strong> 
+&nbsp;<span class="xs1">Copyright &copy; Tencent Cloud.</span>
+</p>
+</div></div>
+</div>
+
+<!--右侧边浮动导航开始-->
+<ul class="byg_side_nav">
+<li>
+<a href="forum.php?mod=misc&amp;action=nav" target="_blank" onclick="showWindow('nav', this.href, 'get', 0)" class="byg_sn1">
+<img src="template/bygsjw/image/side_fatie.png" alt="快速发帖"/>
+</a>
+<i class="byg_sn_i"></i>
+<div class="byg_sn2">
+快速发帖
+</div>
+</li><li>
+<a href="javascript:;" class="byg_sn1" onclick="topFunction();">
+<img src="template/bygsjw/image/side_dingbu.png" alt="返回顶部"/>
+</a>
+<i class="byg_sn_i"></i>
+<div class="byg_sn2">
+返回顶部
+</div>
+</li>
+<script type="text/javascript">
+function topFunction() {
+document.body.scrollTop = 0;
+document.documentElement.scrollTop = 0;
+}
+</script>
+</ul>
+<!--右侧边浮动导航结束-->
+
+<div class="focus plugin" id="ip_notice"></div>
+<script type="text/javascript">ipNotice();</script>
+<script type="text/javascript">noticeTitle();</script>
+<script src="data/cache/html5notification.js?Blb" type="text/javascript"></script>
+<script type="text/javascript">
+var h5n = new Html5notification();
+if(h5n.issupport()) {
+h5n.shownotification('notice_system', 'https://www.53dushu.com/home.php?mod=space&do=notice&view=system', 'https://www.53dushu.com/uc_server/avatar.php?uid=162357&size=small&ts=1', '系统提醒 (5)', '有新的提醒，快去看看吧');
+}
+</script>
+<div id="scrolltop" style="display:none;">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+<script type="text/javascript">
+if (document.getElementsByTagName("header")[0] && document.getElementsByTagName("footer")[0]) {
+document.getElementsByClassName("bygsjw_wp_mh")[0].style.minHeight = window.innerHeight - document.getElementsByTagName("header")[0].offsetHeight - document.getElementsByTagName("footer")[0].offsetHeight - 10 + "px";
+}
+</script>
+</footer>
+</body>
+</html>
+
